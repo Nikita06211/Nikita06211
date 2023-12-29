@@ -44,3 +44,5 @@ I'm always eager to learn and explore new technologies. Currently, I'm diving de
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 Feel free to explore my repositories and projects. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out! Happy coding! 🚀
+
+![](https://komarev.com/ghpvc/?username=Nikita06211)
