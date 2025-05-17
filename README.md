@@ -1,4 +1,3 @@
-# ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFwm2MspPj8nQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696776452609?e=1747267200&v=beta&t=KaosMSoZ6tsqnPgBpututrjBBj0cov7v6QDld2LMLQM)
 
 ## Hi there! 👋 I'm Nikita Bansal  
 
