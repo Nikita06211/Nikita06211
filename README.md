@@ -17,6 +17,15 @@
 - **ORM**: Prisma, Mongoose, TypeORM.
 - **Misc**: Docker, TailwindCSS, Zustand.
 
+### Projects
+
+- **[DocPilot](https://docpilot.nikitabansal.xyz/)** ([Github](https://github.com/Nikita06211/DocPilot-Backend)): An AI Agent made using langchain with tools such as web
+research (Tavily) and website scraping (browser rendering by Cloudflare). that provides latest documentation context to LLM before answering user query. 
+- **[PocketCloud](https://pocketcloud.nikitabansal.xyz/)**([Github](https://github.com/Nikita06211/PocketCloud)): A secure file-sharing platform allowing users to upload files and generate time-restricted shareable
+URLs, with configurable expiration and full user authentication, wrapped in a modern responsive UI.
+
+- **[yc-search](https://yc-search-frontend.vercel.app/)** ([Github](https://github.com/Nikita06211/yc-search-backend)): A service for searching Y Combinator companies using vector embeddings and semantic search powered by Pinecone and OpenAI.
+
 ---
 
 ### 📫 Let's Connect:
